@@ -23,7 +23,3 @@ npm install --save @fortawesome/react-fontawesome
 - To install react Icons packages run:
  
 npm install react-icons --save
-
-- To install Axios run:
-
-npm install axios
