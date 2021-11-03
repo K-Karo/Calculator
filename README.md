@@ -5,18 +5,23 @@ This application is designed to calculate four basic operations and defining the
 installation guide:
 
 - To create the application run:
+ 
 npx create-react-app Calculator
 
 - To download styled components run:
+ 
 npm install --save styled-components
 
 - To install FontAwsome packages run:
+ 
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
 
 - To install react Icons packages run:
+ 
 npm install react-icons --save
 
 - To install Axios run:
+
 npm install axios
